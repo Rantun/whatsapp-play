@@ -47,7 +47,8 @@ Example - `wplay -wt "target_name_of_your_whatsapp_contact"`
 - [ ] a sound notification in pc system when the person gets online.
 - [ ] script to save the whole chat of a person.
 - [ ] docker image for wchat.
-- [ ] .travis.yml script for travis check<br>
+- [ ] .travis.yml script for travis check
+- [ ] Keep a record of states (online/offline) of multiple users in csv, for further analysis<br>
 (If you have any new idea for this software, please open issue for that :) )
 
 ## Disclaimer
